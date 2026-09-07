@@ -135,3 +135,7 @@ void loop()
 
 
 <img width="1040" height="780" alt="WhatsApp Image 2026-08-25 at 1 38 37 PM" src="https://github.com/user-attachments/assets/04664f82-701b-4d86-82e6-9b882fcb3a6a" />
+
+# Result
+
+The External Interrupt and Timer Interrupt were successfully implemented using the Arduino UNO. The external interrupt responded immediately to the push button event, while the timer interrupt executed periodically, demonstrating efficient interrupt-driven programming without continuous polling.
